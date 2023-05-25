@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jjungwooseo.github.io/blog</id>
+    <title>서정우의 블로그 Blog</title>
+    <updated>2023-05-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jjungwooseo.github.io/blog"/>
+    <subtitle>서정우의 블로그 Blog</subtitle>
+    <icon>https://jjungwooseo.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 블로그 생성]]></title>
+        <id>https://jjungwooseo.github.io/blog/first-blog-post</id>
+        <link href="https://jjungwooseo.github.io/blog/first-blog-post"/>
+        <updated>2023-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요. 저는 서울 금융고등학교에 재학중인 서정우 입니다.]]></summary>
+        <content type="html"><![CDATA[<p>안녕하세요. 저는 서울 금융고등학교에 재학중인 서정우 입니다.</p>]]></content>
+        <author>
+            <name>서 정우</name>
+            <uri>https://github.com/jjungwooseo</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="homepagw" term="homepagw"/>
+    </entry>
+</feed>
