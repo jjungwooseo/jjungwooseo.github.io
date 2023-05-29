@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '서정우의 블로그',
-  tagline: '프로그램 ',
+  tagline: '학교 ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
