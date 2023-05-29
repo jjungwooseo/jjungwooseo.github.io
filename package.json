@@ -39,5 +39,9 @@
   },
   "engines": {
     "node": ">=16.14"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/jjungwooseo/jjungwooseo.github.io.git",
+  "author": "jjungwooseo <jjungwoo.seo@gmail.com>",
+  "license": "MIT"
 }
