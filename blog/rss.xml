@@ -18,5 +18,15 @@
             <category>welcome</category>
             <category>homepagw</category>
         </item>
+        <item>
+            <title><![CDATA[블로그 2번쨰 공부]]></title>
+            <link>https://jjungwooseo.github.io/blog/first-blog-post</link>
+            <guid>https://jjungwooseo.github.io/blog/first-blog-post</guid>
+            <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[오늘은 30일 수업을했다. 오늘은 코드명을 치지않아도 yarn build가 돌아가는]]></description>
+            <content:encoded><![CDATA[<p>안녕하세요. 저는 서울 금융고등학교에 재학중인 서정우 입니다.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>homepagw</category>
+        </item>
     </channel>
 </rss>
