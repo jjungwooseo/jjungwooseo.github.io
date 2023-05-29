@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[707],{2502:e=>{e.exports=JSON.parse('{"label":"student","permalink":"/jjungwooseo.github.io/blog/tags/student","allTagsPath":"/jjungwooseo.github.io/blog/tags","count":1}')}}]);
